@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcncrypt",
+        "uuid": 17276303,
+        "checksum": "bvanna"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
